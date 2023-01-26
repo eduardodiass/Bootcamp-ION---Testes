@@ -29,3 +29,9 @@
 /home/eduardo/Documentos/Treinamento/Bootcamp-ION---Testes/Tarefas/src/Tarefas.Web2/obj/Debug/net7.0/Tarefas.Web2.pdb
 /home/eduardo/Documentos/Treinamento/Bootcamp-ION---Testes/Tarefas/src/Tarefas.Web2/obj/Debug/net7.0/Tarefas.Web2.genruntimeconfig.cache
 /home/eduardo/Documentos/Treinamento/Bootcamp-ION---Testes/Tarefas/src/Tarefas.Web2/obj/Debug/net7.0/ref/Tarefas.Web2.dll
+/home/eduardo/Documentos/Treinamento/Bootcamp-ION---Testes/Tarefas/src/Tarefas.Web2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/eduardo/Documentos/Treinamento/Bootcamp-ION---Testes/Tarefas/src/Tarefas.Web2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/eduardo/Documentos/Treinamento/Bootcamp-ION---Testes/Tarefas/src/Tarefas.Web2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/eduardo/Documentos/Treinamento/Bootcamp-ION---Testes/Tarefas/src/Tarefas.Web2/bin/Debug/net7.0/MySqlConnector.dll
+/home/eduardo/Documentos/Treinamento/Bootcamp-ION---Testes/Tarefas/src/Tarefas.Web2/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/eduardo/Documentos/Treinamento/Bootcamp-ION---Testes/Tarefas/src/Tarefas.Web2/obj/Debug/net7.0/Tarefas.Web2.csproj.CopyComplete

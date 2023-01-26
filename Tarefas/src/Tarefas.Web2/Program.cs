@@ -1,4 +1,10 @@
+using Microsoft.EntityFrameworkCore;
+using Tarefas.Web2.Database ;
 var builder = WebApplication.CreateBuilder(args);
+
+// Conectar Base de dados utilizando a configurações que estão no appsettings.json
+string conexaoMysql = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContextPool<ApplicationDBContext>(options=> options.UseMySql(conexaoMysql,ServerVersion.AutoDetect(conexaoMysql)));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
