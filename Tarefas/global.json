@@ -1,0 +1,6 @@
+{ 
+  "Projetcs": ["src"],
+  "sdk": {
+    "version": "7.0.102"
+  }
+}
